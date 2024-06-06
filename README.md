@@ -25,8 +25,8 @@ The Book Search App lets users search for books using the Open Library API and m
 
 
 ## Technologies Used
-  React
-  Tailwind CSS
-  Open Library API
-  localStorage
+  **React**
+  **Tailwind CSS**
+  **Open Library API**
+ **localStorage**
 
