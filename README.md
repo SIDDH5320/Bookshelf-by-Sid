@@ -17,7 +17,7 @@ The Book Search App lets users search for books using the Open Library API and m
    cd book-search-app
 
 2. **Install dependencies:**
- ```bash
+   ```bash
    npm install
    Run the application:
    npm start
