@@ -13,7 +13,7 @@ The Book Search App lets users search for books using the Open Library API and m
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/book-search-app.git](https://github.com/SIDDH5320/Bookshelf-by-Sid.git)
+   git clone (https://github.com/SIDDH5320/Bookshelf-by-Sid.git)
    cd book-search-app
 
 2. **Install dependencies:**
